@@ -18,6 +18,8 @@ public class HorasMinutosSegundos {
 		System.out.printf("Las horas son %d , los minutos %d y los segundos %d \n", horas, minutosTotales, segundos);
 
 		teclado.close();
+		
+		// Comentario de prueba para vincular git
 	}
 
 }
